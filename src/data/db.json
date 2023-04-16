@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "Make a new website for Shaggy",
+      "details": "Create a dynamic vue website in 1 month deadline given by Shaggy",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
